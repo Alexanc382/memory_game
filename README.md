@@ -4,7 +4,7 @@ Hello. Mini-game Memory Game based on my favorite computer games:
 - the "Play again" button
 - if a pair is found, then the cards remain open
 - if there is no pair, then after 1 second they close
-Technologies used:
+- Technologies used:
  HTML: grid, semantics
  CSS: card animations (flip), adaptive
  JS: game logic (comparison, timer, field generation)
@@ -17,7 +17,7 @@ Technologies used:
 - кнопка "Сыграть снова"
 - если пара найдена, то карточки остаются открытыми
 - если пары нет, то через 1 сек закрываются
-Использоваемые технологии: 
+- Использоваемые технологии: 
  HTML: сетка, семантика
  CSS: анимации карточек (flip), адаптив
  JS: логика игры (сравнение, таймер, генерация поля)
